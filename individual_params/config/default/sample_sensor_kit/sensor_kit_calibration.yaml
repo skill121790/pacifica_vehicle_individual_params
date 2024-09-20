@@ -1,6 +1,6 @@
 sensor_kit_base_link:
   camera0/camera_link:
-    x: 0.27331
+    x: 0.454
     y: 0.56343
     z: -0.27697
     roll: -0.025
